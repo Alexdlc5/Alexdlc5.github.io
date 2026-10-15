@@ -1,0 +1,1 @@
+# Authorized sellers for Glimmerwood ads. The AdMob line is added once the AdMob account exists.
