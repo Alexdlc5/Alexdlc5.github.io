@@ -1,1 +1,2 @@
-# Authorized sellers for Glimmerwood ads. The AdMob line is added once the AdMob account exists.
+# Authorized sellers for Glimmerwood ads (AdMob publisher ID).
+google.com, pub-2020120570370273, DIRECT, f08c47fec0942fa0
